@@ -1,0 +1,1101 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Coverpage_Microphysics",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "FitH",
+            "view_pos": [
+                796.0
+            ]
+        },
+        {
+            "title": "GFDL_MP_Tech_Note",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 81,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "History",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                528.322998046875,
+                0.0
+            ]
+        },
+        {
+            "title": "Features",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Application",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                488.7160339355469,
+                0.0
+            ]
+        },
+        {
+            "title": "Structure",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Theory",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 15,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Basic Equations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                697.3820190429688,
+                0.0
+            ]
+        },
+        {
+            "title": "Vertical Placement of the Meteorological Fields",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                665.467041015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Size Distribution of Hydrometeors",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Air Mass and Mass Mixing Ratio of Hydrometeors",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                206.91099548339844,
+                0.0
+            ]
+        },
+        {
+            "title": "Number Concentration of Hydrometeors",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                382.9110107421875,
+                0.0
+            ]
+        },
+        {
+            "title": "Air Density",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                393.5249938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "Virtual Temperature",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Specific Heat Capacity",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                549.010009765625,
+                0.0
+            ]
+        },
+        {
+            "title": "Latent Heat Coefficient",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                552.635009765625,
+                0.0
+            ]
+        },
+        {
+            "title": "Cloud Condensation Nuclei and Cloud Droplet Number Concentration",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                236.73699951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Subgrid Variability",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                581.7789916992188,
+                0.0
+            ]
+        },
+        {
+            "title": "Rate of Conversion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                174.92599487304688,
+                0.0
+            ]
+        },
+        {
+            "title": "Fix Negative Hydrometeors",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                539.7570190429688,
+                0.0
+            ]
+        },
+        {
+            "title": "Saturation Water Vapor Pressure",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                614.2680053710938,
+                0.0
+            ]
+        },
+        {
+            "title": "Energy Conservation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                145.83700561523438,
+                0.0
+            ]
+        },
+        {
+            "title": "Cloud Microphysical Processes",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 32,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Cloud Water Condensation and Evaporation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                558.987060546875,
+                0.0
+            ]
+        },
+        {
+            "title": "Evaporation of Rain to Water Vapor",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 25,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                650.6079711914062,
+                0.0
+            ]
+        },
+        {
+            "title": "Minimum Evaporation of Rain to Water Vapor",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                508.6600036621094,
+                0.0
+            ]
+        },
+        {
+            "title": "Cloud Ice Sublimation and Deposition",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                275.1369934082031,
+                0.0
+            ]
+        },
+        {
+            "title": "Snow Sublimation and Deposition",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                335.8320007324219,
+                0.0
+            ]
+        },
+        {
+            "title": "Graupel Sublimation and Deposition",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                548.1459350585938,
+                0.0
+            ]
+        },
+        {
+            "title": "Instantaneous Deposition of Water Vapor",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Instantaneous Evaporation / Sublimation of Cloud Water / Cloud Ice",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                604.77001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "Melting of Cloud Ice to Cloud Water and Rain",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                239.81399536132812,
+                0.0
+            ]
+        },
+        {
+            "title": "Complete Freezing of Cloud Water to Cloud Ice",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                610.2300415039062,
+                0.0
+            ]
+        },
+        {
+            "title": "Homogeneous Freezing of Cloud Water to Cloud Ice and Snow",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                431.6400146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Bigg Freezing of Cloud Water to Cloud Ice",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Melting of Snow to Cloud Water and Rain, Simple Version",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                432.00201416015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Melting of Snow to Cloud Water and Rain",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                150.6330108642578,
+                0.0
+            ]
+        },
+        {
+            "title": "Melting of Graupel to Rain",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                410.7110290527344,
+                0.0
+            ]
+        },
+        {
+            "title": "Freezing of Rain to Graupel, Simple Version",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                140.3350067138672,
+                0.0
+            ]
+        },
+        {
+            "title": "Freezing of Rain to Graupel",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                582.8709716796875,
+                0.0
+            ]
+        },
+        {
+            "title": "Autoconversion from Cloud Water to Rain, Simple Version",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                429.593994140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Autoconversion from Cloud Water to Rain",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                281.2790222167969,
+                0.0
+            ]
+        },
+        {
+            "title": "Autoconversion from Cloud Ice to Snow, Simple Version",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                476.4169921875,
+                0.0
+            ]
+        },
+        {
+            "title": "Autoconversion from Cloud Ice to Snow",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                319.1440124511719,
+                0.0
+            ]
+        },
+        {
+            "title": "Autoconversion from Snow to Graupel",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                439.27001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "Accretion of Cloud Water by Rain",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                237.2030029296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Accretion of Cloud Water by Snow",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Accretion of Rain by Snow",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                575.6740112304688,
+                0.0
+            ]
+        },
+        {
+            "title": "Accretion of Snow by Rain",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                370.6600036621094,
+                0.0
+            ]
+        },
+        {
+            "title": "Accretion of Cloud Water by Graupel",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                209.51699829101562,
+                0.0
+            ]
+        },
+        {
+            "title": "Accretion of Rain by Graupel",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                681.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Accretion of Cloud Ice by Snow",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                454.4469909667969,
+                0.0
+            ]
+        },
+        {
+            "title": "Accretion of Cloud Ice by Graupel",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                269.1340026855469,
+                0.0
+            ]
+        },
+        {
+            "title": "Scaler for Accretion of Rain by Snow and Freezing of Rain to Graupel",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 38,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Accretion of Snow by Graupel",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 38,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                591.1279907226562,
+                0.0
+            ]
+        },
+        {
+            "title": "Sedimentation and Precipitation",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 39,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Terminal Fall Velocity",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                697.3820190429688,
+                0.0
+            ]
+        },
+        {
+            "title": "Implicit Falls of Hydrometeors",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                609.6109619140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Lagrangian Falls of hydrometeors",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 41,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                286.7450256347656,
+                0.0
+            ]
+        },
+        {
+            "title": "Impact of Sedimentation on Momentum and Temperature",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 41,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                182.6840057373047,
+                0.0
+            ]
+        },
+        {
+            "title": "Diagnostic Output",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Cloud Fraction",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                697.3820190429688,
+                0.0
+            ]
+        },
+        {
+            "title": "Radar Reflectivity",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                460.85797119140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Cloud Effective Radius",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                451.2869873046875,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix List of Symbols",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix List of Constants in IFS",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix Namelist Guide",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 11,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "General",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                697.3820190429688,
+                0.0
+            ]
+        },
+        {
+            "title": "Conversion Time Scale",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                488.9679870605469,
+                0.0
+            ]
+        },
+        {
+            "title": "Subgrid Variability",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 58,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                679.260009765625,
+                0.0
+            ]
+        },
+        {
+            "title": "Fall Speed",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 58,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                499.2400207519531,
+                0.0
+            ]
+        },
+        {
+            "title": "Conversion Threshold",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 59,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Conversion Efficiency",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 59,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                127.6709976196289,
+                0.0
+            ]
+        },
+        {
+            "title": "Options",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                237.0189971923828,
+                0.0
+            ]
+        },
+        {
+            "title": "Cloud Fraction",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                665.467041015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Sedimentation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                340.87799072265625,
+                0.0
+            ]
+        },
+        {
+            "title": "CCN",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Others",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                572.4020385742188,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix Document Update Record",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Acknowledgement",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 65,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                683.0689697265625,
+                0.0
+            ]
+        },
+        {
+            "title": "Code, Copyright, and Citation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 65,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                526.6840209960938,
+                0.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 65,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                526.6840209960938,
+                0.0
+            ]
+        }
+    ],
+    "pages": 72,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 10,
+        "equations": {
+            "successful_ocr": 352,
+            "unsuccessful_ocr": 31,
+            "equations": 383
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

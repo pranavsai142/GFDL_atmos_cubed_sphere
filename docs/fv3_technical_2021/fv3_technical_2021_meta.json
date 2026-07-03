@@ -1,0 +1,717 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                542.1109619140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Disclaimer",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "Dedication and Acknowledgements",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "FV3 introduction",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "A brief history of FV3",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                542.1109619140625,
+                0.0
+            ]
+        },
+        {
+            "title": "The FV3 Way\u2014Advantages of FV3",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                601.489013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Future FV3 Development",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                636.552978515625,
+                0.0
+            ]
+        },
+        {
+            "title": "About this document",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                494.791015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Outline of the FV3 solver",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                658.1640014648438,
+                0.0
+            ]
+        },
+        {
+            "title": "Cubed-sphere grid",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "Gnomonic coordinates and grid construction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                216.1439971923828,
+                0.0
+            ]
+        },
+        {
+            "title": "Vector geometry: covariant vs. contravariant components",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                423.54998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Finite-volume formulation and flux evaluation",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "One-dimensional advection operators",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                353.61102294921875,
+                0.0
+            ]
+        },
+        {
+            "title": "Two-dimensional advection",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                577.718017578125,
+                0.0
+            ]
+        },
+        {
+            "title": "The vertically-Lagrangian Solver: Governing equations and vertical discretization",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 38,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "Lagrangian vertical coordinates",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                514.68798828125,
+                0.0
+            ]
+        },
+        {
+            "title": "Prognostic variables and governing equations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 41,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                533.3740234375,
+                0.0
+            ]
+        },
+        {
+            "title": "Vertical Remapping",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                324.6990051269531,
+                0.0
+            ]
+        },
+        {
+            "title": "Derivation of the vertically-Lagrangian equations of motion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                435.7229919433594,
+                0.0
+            ]
+        },
+        {
+            "title": "Horizontal dynamics along Lagrangian surfaces",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "Horizontal Discretization",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                245.79598999023438,
+                0.0
+            ]
+        },
+        {
+            "title": "C-D grid discretization",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                420.9219970703125,
+                0.0
+            ]
+        },
+        {
+            "title": "The importance of vorticity in fluid dynamics",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 54,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                470.54998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "On Numerical Analysis and Numerological Analysis",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 55,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                600.7770385742188,
+                0.0
+            ]
+        },
+        {
+            "title": "Edge handling and component interpolation on a cubed-sphere grid",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 58,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                208.3489990234375,
+                0.0
+            ]
+        },
+        {
+            "title": "Backward-in-time horizontal pressure gradient force",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 59,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                228.48199462890625,
+                0.0
+            ]
+        },
+        {
+            "title": "Covariant and contravariant components on a staggered grid",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                407.0160217285156,
+                0.0
+            ]
+        },
+        {
+            "title": "Nonhydrostatic dynamics in FV3",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "The nonhydrostatic semi-implicit solver",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                206.78199768066406,
+                0.0
+            ]
+        },
+        {
+            "title": "Hydrostatic and nonhydrostatic dynamicsThis section benefited greatly from discussions with Noah Brenowitz of Vulcan Climate Modeling.",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 67,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "Artificial diffusion",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "The necessity of numerical diffusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                542.1109619140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Choosing the right (diffusion) tool for the job",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 71,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                614.1920166015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Divergence damping",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 73,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                400.38897705078125,
+                0.0
+            ]
+        },
+        {
+            "title": "Vorticity damping",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 74,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                306.7900085449219,
+                0.0
+            ]
+        },
+        {
+            "title": "Dissipative heating in FV3",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                241.03500366210938,
+                0.0
+            ]
+        },
+        {
+            "title": "Model-top sponge layer and energy-conserving Rayleigh damping",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                417.4389953613281,
+                0.0
+            ]
+        },
+        {
+            "title": "Energy-, momentum-, and mass-conserving 2z filter",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 78,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                380.6400146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Physics-dynamics and data assimilation coupling",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 82,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "Condensate loading and mass conservation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 82,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                510.906982421875,
+                0.0
+            ]
+        },
+        {
+            "title": "Variable heat capacityThis section relies heavily upon the work of Linjiong Zhou.",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 83,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                488.09600830078125,
+                0.0
+            ]
+        },
+        {
+            "title": "Diabatic heating",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 84,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                296.39398193359375,
+                0.0
+            ]
+        },
+        {
+            "title": "Staggered wind interpolation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 85,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                546.1689453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Model initialization",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 86,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        },
+        {
+            "title": "Initialization from external analyses",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 86,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                542.1109619140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Topography creation and filtering",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 88,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                471.27001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "Forwards-backwards initialization",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 90,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                391.6710205078125,
+                0.0
+            ]
+        },
+        {
+            "title": "Grid refinement techniques",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 92,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                658.1640014648438,
+                0.0
+            ]
+        },
+        {
+            "title": "Grid stretching",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 92,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                322.9629821777344,
+                0.0
+            ]
+        },
+        {
+            "title": "Grid nesting",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 93,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                253.58799743652344,
+                0.0
+            ]
+        },
+        {
+            "title": "Bibliography",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 98,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                537.0589599609375,
+                0.0
+            ]
+        },
+        {
+            "title": "Revision History",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 108,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.86199951171875,
+                668.1270141601562,
+                0.0
+            ]
+        }
+    ],
+    "pages": 109,
+    "ocr_stats": {
+        "ocr_pages": 9,
+        "ocr_failed": 6,
+        "ocr_success": 3,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 6,
+        "equations": {
+            "successful_ocr": 12,
+            "unsuccessful_ocr": 167,
+            "equations": 179
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
